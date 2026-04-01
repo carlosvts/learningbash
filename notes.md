@@ -17,3 +17,9 @@ some-command 2> error.log
 `&>` redirects stdout + stderr together
 
 some-command &> all.log
+
+`man` -- manual pages
+
+`history` -- `man` equivalent for builtin shell commands
+
+`type` -- show every info about some command
