@@ -23,3 +23,8 @@ some-command &> all.log
 `history` -- `man` equivalent for builtin shell commands
 
 `type` -- show every info about some command
+
+`compgen -b` -- list all builtins
+
+`file` -- will try to say what type of file it is
+
