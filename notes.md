@@ -1,5 +1,7 @@
 # Notes
 
+## More commands and operators
+
 `|` -- Redirects stdout into one command
 
 `>` -- Redirects stdout into something, like a file (overwrites)
@@ -28,3 +30,9 @@ some-command &> all.log
 
 `file` -- will try to say what type of file it is
 
+
+## File permissions
+
+For change permission of a file, we can use `chmod`
+
+`chmod +x script.sh`
