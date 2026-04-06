@@ -30,6 +30,8 @@ some-command &> all.log
 
 `file` -- will try to say what type of file it is
 
+`bash -n` -- syntax checker for a bash file
+
 
 ## File permissions
 
